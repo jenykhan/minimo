@@ -1,0 +1,59 @@
+psd to html
+  psd
+  section define - 7
+  layout define
+      full complete
+
+
+      asset gather
+        logo
+        img
+        icon
+        text
+
+
+   css her
+
+
+  fonts 
+      inconsoloate rag
+      playfair display regular
+      ubuntu light
+      playfair display regular
+      ubuntu light
+
+  common- body
+      font-family
+      font-size
+      font-weight
+      color
+      text-transform
+      text-align
+      line-height
+      letter-space
+      word-space
+
+
+      width
+      height
+
+
+      margin
+      padding  
+
+
+      r blocks
+
+
+      body
+
+      ui ux  
+          1.color combination
+             catalog
+              logo
+              color-2/3 
+           2.typography
+              fonts-2/3   
+
+
+      button/link (maintain hover effect)
